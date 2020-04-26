@@ -1,0 +1,271 @@
+* {
+  font-family: "Roboto Bold", sans-serif;
+}
+.text {
+  padding: 50px 0px;
+}
+.topBar {
+  padding: 60px 0px;
+}
+.topBar .icon i {
+  font-size: 44px;
+}
+.appoinment ul li {
+  color: rgb(77, 23, 23);
+}
+.appoinment .hover-ani {
+  padding: 1000px 30px;
+}
+.appoinment i {
+  padding: 17px 0px;
+}
+.banner {
+  background-image: url(../images/topBanner.png);
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: 100px;
+  min-height: 90vh;
+}
+.banner h2 {
+  font-size: 80px;
+  font-weight: 900;
+  color: white;
+}
+.banner h1 {
+  font-size: 60px;
+  color: white;
+  font-weight: 900;
+}
+
+.bnr {
+  
+}
+.button {
+  
+}
+.btn-learn {
+  
+}
+.btn-book {
+  
+}
+
+/* welcome banner */
+.banner-welcome {
+  
+}
+.banner-welcome h1 {
+  
+}
+.banner-welcome p {
+  
+}
+
+.content h5 {
+  font-size: 22px;
+  font-weight: 600;
+}
+.content p {
+  
+}
+
+/* Meet our doctor */
+.meetourdoctor {
+  
+}
+.mainprobox {
+  
+}
+.pro-box {
+  
+}
+.img-item {
+  
+}
+.icon-box ul {
+  
+}
+.icon-box ul li {
+  
+}
+.rw {
+  margin-top: 60px;
+}
+.ourservices {
+  
+}
+.servicebox {
+  
+}
+.service {
+  
+}
+.service a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 600;
+  color: #707070;
+  transition: 0.4s all ease-in-out;
+}
+.service p {
+  font-size: 16px;
+  font-weight: 500;
+  padding-top: 10px;
+}
+.icon {
+  display: flex;
+  vertical-align: middle;
+}
+.icon i {
+  font-size: 30px;
+  color: #f69165;
+  padding-right: 15px;
+}
+.icon h5 {
+  font-size: 24px;
+  font-weight: 700;
+  transition: 0.4s all ease-in-out;
+}
+.servicebox:hover {
+  border: 3px solid #f69165;
+}
+.servicebox:hover h5 {
+  color: #f69165;
+}
+.servicebox:hover a {
+  color: #f69165;
+}
+
+/* 
+    Our plan
+*/
+.ourplan {
+  padding: 100px 0px;
+  background-color: #f9f9f9;
+}
+.mainplan {
+  text-align: center;
+  border: none;
+  border: 4px solid white;
+  transition: 0.6s all ease-in-out;
+  margin-top: 30px;
+}
+.plan {
+  padding: 30px 0px;
+  transition: 0.6s all ease-in-out;
+}
+.plan h3 {
+  color: #00cce1;
+  font-size: 30px;
+  transition: 0.6s all ease-in-out;
+  font-weight: 600;
+}
+.plan p {
+  font-size: 18px;
+
+  font-weight: 500;
+}
+.benifit p {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.benifit p:last-child {
+  margin-bottom: 30px;
+}
+.price {
+  margin-bottom: 30px;
+  background-color: white;
+  transition: 0.6s all ease-in-out;
+}
+.price h1 {
+  color: #00cce1;
+  font-size: 58px;
+  font-weight: 700;
+  transition: 0.6s all ease-in-out;
+  padding-top: 20px;
+}
+.price p {
+  transition: 0.6s all ease-in-out;
+  color: #00cce1;
+  font-size: 18px;
+  font-weight: 600;
+
+  padding-bottom: 16px;
+}
+.plan .btn-signup {
+  
+}
+.mainplan:hover {
+  
+}
+.mainplan:hover .plan h3 {
+  
+}
+.mainplan:hover .btn-signup {
+  
+}
+.mainplan:hover .price {
+  
+}
+.mainplan:hover .price h1 {
+  
+}
+.mainplan:hover .price p {
+  
+}
+
+.logoArea{
+  
+}
+.logoArea .rw{
+  
+}
+.logoArea i{
+  
+}
+.logoArea img{
+  
+}
+.logocon .right {
+  
+}
+.logocon .right i{
+  
+}
+.logocon .left {
+  
+}
+.logocon .left i{
+  
+}
+
+.post{
+  
+}
+.contactdetails{
+  
+}
+.followlink{
+  padding: 0;
+}
+.form-control {
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn-custom {
+  
+  border: 1px solid #383535;
+  padding: 0px 20px;
+  font-size: 1rem;
+  border-radius: 0rem;
+}
+.footer-part{
+  
+}
+.footer-part span{
+  
+}
+footer p{
+  margin: 0;
+  color: #727272;
+}
